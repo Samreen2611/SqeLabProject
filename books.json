@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Python Programming",
+        "author": "Samreen",
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "title": "Database Systems",
+        "author": "Hasnian",
+        "quantity": 3
+    }
+]

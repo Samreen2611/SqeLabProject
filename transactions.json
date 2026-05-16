@@ -1,0 +1,12 @@
+[
+    {
+        "user": "samreen",
+        "book": "Database Systems",
+        "status": "Borrowed"
+    },
+    {
+        "user": "samreen",
+        "book": "Database Systems",
+        "status": "Returned"
+    }
+]
